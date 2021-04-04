@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 TODO: writing...
 
@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats
+
+[![u6k's GitHub stats](https://github-readme-stats.vercel.app/api?username=u6k&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u6k)](https://github.com/anuraghazra/github-readme-stats)
